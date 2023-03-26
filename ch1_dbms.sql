@@ -1,0 +1,28 @@
+sql문
+
+QUERY 명령어 
+1) SELECT 
+
+DML(데이터 변경 명령어)
+1) INSERT
+2) UPDATE
+3) DELETE
+4) MERGE
+
+DDL(데이터 정의 명령어)
+1) CREATE
+2) ALTER 
+3) DROP 
+4) TRUNCATE 
+5) RENAME 
+6) COMMENT 
+
+DCL(데이터 제어 명령어)
+1) GRANT 
+2) REVOKE 
+
+TCL (트랜잭션 제어 명령어)
+1) COMMIT 
+2) ROLLBACK 
+3) SAVEPOINT 
+
